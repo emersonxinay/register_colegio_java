@@ -8,3 +8,5 @@ para ejecutar el programa
 java -cp out:lib/postgresql-42.7.5.jar src.ColegioApp
 ```
 
+demo:
+<img src="image.png">
